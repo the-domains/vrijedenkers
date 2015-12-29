@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[vrijedenkers]]></title>
-        <description><![CDATA[vrijedenkers]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Vrije Denkers op Vrije Voeten]]></title>
+        <description><![CDATA[Vrije Denkers op Vrije Voeten]]></description>
+        <link>https://thegrid.ai/vrijedenkers/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 12:14:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 12:21:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vrijedenkers/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f0e04031-1f0d-4c20-ad74-1ee0d6a4aebf.png">]]></description>
-            <link>undefined96dadfad-376e-460f-87fd-80d925fe7d5a/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e5e8de06-a68b-4c0b-9808-3c59c6cac620.jpg">]]></description>
+            <link>https://thegrid.ai/vrijedenkers/96dadfad-376e-460f-87fd-80d925fe7d5a/index.html</link>
             <guid isPermaLink="false">96dadfad-376e-460f-87fd-80d925fe7d5a</guid>
-            <pubDate>Tue, 29 Dec 2015 12:14:41 GMT</pubDate>
+            <pubDate>Tue, 29 Dec 2015 12:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
