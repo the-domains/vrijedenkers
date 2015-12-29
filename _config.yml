@@ -1,7 +1,7 @@
 name: vrijedenkers
 favicon: null
-layout_spectrum: 0.14265014044940472
-typography_spectrum: 0.5930084178689867
+layout_spectrum: 1
+typography_spectrum: 0.38611
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.971159883774817
-  lightness: 0.909432380227372
-  saturation: 0.17238714382983744
-  rhythmicContrast: 0.12664159783162177
+    - '#010004'
+    - '#edffff'
+    - '#51a2ff'
+    - '#80531f'
+    - '#d9bfb0'
+  brandStrength: 1
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
